@@ -1,0 +1,6 @@
+C:\Development\GIT\My_Codes\C_Sharp\JM_ConsoleApp_SplitTables_02\JM_ConsoleApp_SplitTables_02\bin\Debug\JM_ConsoleApp_SplitTables_02.exe.config
+C:\Development\GIT\My_Codes\C_Sharp\JM_ConsoleApp_SplitTables_02\JM_ConsoleApp_SplitTables_02\bin\Debug\JM_ConsoleApp_SplitTables_02.exe
+C:\Development\GIT\My_Codes\C_Sharp\JM_ConsoleApp_SplitTables_02\JM_ConsoleApp_SplitTables_02\bin\Debug\JM_ConsoleApp_SplitTables_02.pdb
+C:\Development\GIT\My_Codes\C_Sharp\JM_ConsoleApp_SplitTables_02\JM_ConsoleApp_SplitTables_02\obj\Debug\JM_ConsoleApp_SplitTables_02.csproj.CoreCompileInputs.cache
+C:\Development\GIT\My_Codes\C_Sharp\JM_ConsoleApp_SplitTables_02\JM_ConsoleApp_SplitTables_02\obj\Debug\JM_ConsoleApp_SplitTables_02.exe
+C:\Development\GIT\My_Codes\C_Sharp\JM_ConsoleApp_SplitTables_02\JM_ConsoleApp_SplitTables_02\obj\Debug\JM_ConsoleApp_SplitTables_02.pdb
