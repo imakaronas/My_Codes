@@ -1,0 +1,7 @@
+C:\Development\GIT\My_Codes\C_Sharp\JM_ConsoleApp_SplitTables_04\JM_ConsoleApp_SplitTables_04\bin\Debug\JM_ConsoleApp_SplitTables_04.exe.config
+C:\Development\GIT\My_Codes\C_Sharp\JM_ConsoleApp_SplitTables_04\JM_ConsoleApp_SplitTables_04\bin\Debug\JM_ConsoleApp_SplitTables_04.exe
+C:\Development\GIT\My_Codes\C_Sharp\JM_ConsoleApp_SplitTables_04\JM_ConsoleApp_SplitTables_04\bin\Debug\JM_ConsoleApp_SplitTables_04.pdb
+C:\Development\GIT\My_Codes\C_Sharp\JM_ConsoleApp_SplitTables_04\JM_ConsoleApp_SplitTables_04\obj\Debug\JM_ConsoleApp_SplitTables_04.csprojResolveAssemblyReference.cache
+C:\Development\GIT\My_Codes\C_Sharp\JM_ConsoleApp_SplitTables_04\JM_ConsoleApp_SplitTables_04\obj\Debug\JM_ConsoleApp_SplitTables_04.csproj.CoreCompileInputs.cache
+C:\Development\GIT\My_Codes\C_Sharp\JM_ConsoleApp_SplitTables_04\JM_ConsoleApp_SplitTables_04\obj\Debug\JM_ConsoleApp_SplitTables_04.exe
+C:\Development\GIT\My_Codes\C_Sharp\JM_ConsoleApp_SplitTables_04\JM_ConsoleApp_SplitTables_04\obj\Debug\JM_ConsoleApp_SplitTables_04.pdb
