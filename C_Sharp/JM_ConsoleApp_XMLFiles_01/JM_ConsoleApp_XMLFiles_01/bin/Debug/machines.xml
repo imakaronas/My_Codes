@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Table>
+  <Table>
+    <Machines>
+      <Machine_id>1</Machine_id>
+      <Machine_Type>ATM</Machine_Type>
+      <Machine_Installed>100</Machine_Installed>
+    </Machines>
+    <Machines>
+      <Machine_id>2</Machine_id>
+      <Machine_Type>APS</Machine_Type>
+      <Machine_Installed>80</Machine_Installed>
+    </Machines>
+    <Machines>
+      <Machine_id>3</Machine_id>
+      <Machine_Type>OLIS</Machine_Type>
+      <Machine_Installed>120</Machine_Installed>
+    </Machines>
+    <Machines>
+      <Machine_id>4</Machine_id>
+      <Machine_Type>MASSCOIN</Machine_Type>
+      <Machine_Installed>50</Machine_Installed>
+    </Machines>
+  </Table>
+</Table>
