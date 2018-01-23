@@ -1,0 +1,6 @@
+C:\Development\GIT\My_Codes\C_Sharp\JM_ConsoleApp_Arrays_01\JM_ConsoleApp_Arrays_01\bin\Debug\JM_ConsoleApp_Arrays_01.exe.config
+C:\Development\GIT\My_Codes\C_Sharp\JM_ConsoleApp_Arrays_01\JM_ConsoleApp_Arrays_01\bin\Debug\JM_ConsoleApp_Arrays_01.exe
+C:\Development\GIT\My_Codes\C_Sharp\JM_ConsoleApp_Arrays_01\JM_ConsoleApp_Arrays_01\bin\Debug\JM_ConsoleApp_Arrays_01.pdb
+C:\Development\GIT\My_Codes\C_Sharp\JM_ConsoleApp_Arrays_01\JM_ConsoleApp_Arrays_01\obj\Debug\JM_ConsoleApp_Arrays_01.csproj.CoreCompileInputs.cache
+C:\Development\GIT\My_Codes\C_Sharp\JM_ConsoleApp_Arrays_01\JM_ConsoleApp_Arrays_01\obj\Debug\JM_ConsoleApp_Arrays_01.exe
+C:\Development\GIT\My_Codes\C_Sharp\JM_ConsoleApp_Arrays_01\JM_ConsoleApp_Arrays_01\obj\Debug\JM_ConsoleApp_Arrays_01.pdb
