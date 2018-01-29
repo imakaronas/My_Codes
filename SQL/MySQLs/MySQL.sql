@@ -1,1 +1,2 @@
-Select * from orders
+Select * from orders;
+-- test
